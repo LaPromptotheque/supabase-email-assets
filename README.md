@@ -1,0 +1,1 @@
+# supabase-email-assets
